@@ -5,7 +5,7 @@ export const About = () => {
 
     const frontendSkills = ["React","TypeScript", "TailwindCSS"];
 
-    const backendSkills = ["Node.js", "Python", "Mongo"];
+    const backendSkills = ["Node.js", "Python"];
 
     return <section id="about" className="min-h-screen flex items-center justify-center py-20">
 
@@ -18,7 +18,7 @@ export const About = () => {
 
             <div className="glass rounded-xl p-8 border-white/10 border hover: translate-y-1 transition-all">
             <p className="text-gray-300 mb-6">
-                Passionate developer with expertise in building scalable wed applications and creating innovatiove solutions.
+                Passionate developer with expertise in building scalable wed applications and creating innovative solutions.
             
                 </p>
 
